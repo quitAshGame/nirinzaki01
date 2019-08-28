@@ -1,0 +1,12 @@
+{
+"companyName": "キト(亜種)の国",
+"productName": "二輪咲き-序-",
+"dataUrl": "二輪咲き-序-2.data.unityweb",
+"wasmCodeUrl": "二輪咲き-序-2.wasm.code.unityweb",
+"wasmFrameworkUrl": "二輪咲き-序-2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#800020"
+}
